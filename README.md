@@ -69,3 +69,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+npx create-react-app covid-19-tracker
+npm i react-chartjs-2 chart.js
+npm i numeral
+npm i react-leaflet
+npm i leaflet
+npm i -g firebase-tools
+firebase login
+firebase init
+npm run build
+firebase deploy
+firebase logout
