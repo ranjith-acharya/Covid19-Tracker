@@ -70,14 +70,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-npx create-react-app covid-19-tracker
-npm i react-chartjs-2 chart.js
-npm i numeral
-npm i react-leaflet
-npm i leaflet
-npm i -g firebase-tools
-firebase login
-firebase init
-npm run build
-firebase deploy
-firebase logout
+List of all the Packages used to complete the project -<br>
+npx create-react-app covid-19-tracker<br>
+npm install @material-ui/core<br>
+npm i react-chartjs-2 chart.js<br>
+npm i numeral<br>
+npm i react-leaflet<br>
+npm i leaflet<br>
+npm i -g firebase-tools<br>
+firebase login<br>
+firebase init<br>
+npm run build<br>
+firebase deploy<br>
+firebase logout<br>
