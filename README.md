@@ -70,7 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-List of all the Packages used to complete the project -<br>
+<h3>List of all the Packages used to complete the project -</h3><br>
 npx create-react-app covid-19-tracker<br>
 npm install @material-ui/core<br>
 npm i react-chartjs-2 chart.js<br>
